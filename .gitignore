@@ -2,4 +2,6 @@ cityscapesscripts/
 cityscapesScripts-master/
 output/
 pyimagesearch/
+run.sh/
+slurm-*.out/
 
