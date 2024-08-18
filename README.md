@@ -1,7 +1,7 @@
 # MLBD-Summer-2024-REU-UNET-Project
 
 ## Description
-This repository contains my implementation of a UNet architecture for image segmentation, developed during the Summer 2024 Machine Learning and Big Data (MLBD) Research Experience for Undergraduates (REU). The project focuses on segmenting various types of off-road terrain in images, to then be implemented in AI powered cars for traversability, utilizing deep learning techniques to improve accuracy and performance.
+This repository contains my implementation of a UNet architecture for image segmentation, developed during the Summer 2024 Machine Learning and Big Data (MLBD) Research Experience for Undergraduates (REU). The project focuses on segmenting various types of off-road terrain in images, to then be implemented in AI powered cars for autonomous traversability, utilizing deep learning techniques to improve accuracy and performance.
 
 ## Features
 - Implementation of the UNet model using PyTorch for image segmentation.
